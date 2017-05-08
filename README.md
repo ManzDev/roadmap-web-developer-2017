@@ -1,7 +1,7 @@
+![FrontEnd RoadMap](roadtitle.png)
+
 # Roadmap Web Developer 2017
 > Front-end Technologies to learn in 2017
-
-![FrontEnd RoadMap](roadtitle.png)
 
 ### ⚡ HTML5 Front-end Developer
 A first starting point to start with the front-end development.

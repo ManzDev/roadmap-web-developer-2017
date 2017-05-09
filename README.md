@@ -18,7 +18,7 @@ If you are interested in improving and perfecting yourself as a programmer or ja
 
 ![JS Front-end developer](frontend-js-dev.png)
 
-**NOTE:** This roadmap is _under construction_. Please be constructive and propose improvements instead of complaining because your preferred technology is not in the pictures.
+**NOTE:** This roadmap is _under construction_. Please be constructive and [propose improvements](https://github.com/ManzDev/roadmap-web-developer-2017/issues) instead of complaining because your preferred technology is not in the pictures.
 
 * Author | [@Manz](https://twitter.com/Manz)
 * Site | [Emezeta.com](https://www.emezeta.com/)
